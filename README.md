@@ -11,7 +11,7 @@ A repo to learn Tensorflow 2
 
 OS: macOS Big Sur
 
-### Projects
+## Projects
 I follow the tutorial, try some Tensorflow 2 practices and usage, and make clean code.
 
 1. CNN Network for recognizing MNIST digits: [source code turorial](https://towardsdatascience.com/a-quick-introduction-to-tensorflow-2-0-for-deep-learning-e740ca2e974c)
