@@ -1,4 +1,4 @@
-# Tensorflow 2 using Python 3
+# TensorFlow 2 using Python 3.8
 
 ## Overview
 A repo to learn Tensorflow 2 
